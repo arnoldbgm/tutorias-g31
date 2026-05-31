@@ -1,4 +1,4 @@
-# Tutorias del G-30 Backend 🐍🚀
+# Tutorias del G-31 Backend 🐍🚀
 En este repositorio encontraras todas las sesiones de tutoria a lo largo del bootcamp
 
 ## Recursos Basicos
