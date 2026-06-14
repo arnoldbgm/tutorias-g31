@@ -67,7 +67,7 @@ def listar_peliculas_genero():
    if genero:
       resulto_filtrado = []
       for elmt in resultado:
-         if elmt["genero"] == genero:
+         if elmt["genero"].lower() == genero.lower():
             resulto_filtrado.append(elmt)
       # Ahora haremos que mi resultado filtrado sea mis resultado
       resultado = resulto_filtrado
